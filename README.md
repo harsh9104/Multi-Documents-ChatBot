@@ -38,7 +38,7 @@ This project implements a Multi-Document Retrieval-Augmented Generation (RAG) ch
 
 3. Run the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Usage
