@@ -1,7 +1,3 @@
-Here’s a suggested **README** file for your project:
-
----
-
 # Multi-Document RAG Chatbot
 
 ## Overview
@@ -49,13 +45,3 @@ This project implements a Multi-Document Retrieval-Augmented Generation (RAG) ch
 - The app will load in your default web browser.
 - Upload multiple documents for the chatbot to process.
 - Type in a query, and the chatbot will retrieve relevant documents and generate contextually accurate responses.
-
-## Contribution
-Feel free to fork the repository, make improvements, or report issues via GitHub Issues.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like to make any adjustments!
