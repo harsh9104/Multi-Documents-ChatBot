@@ -19,10 +19,10 @@ This project implements a Multi-Document Retrieval-Augmented Generation (RAG) ch
 ## Installation
 
 ### Requirements:
-- Python 3.x
+- Python 3.13
 - Streamlit
 - LangChain
-- Groq (if hardware acceleration is required)
+- Groq
 - ChromaDB
 
 ### Setup:
